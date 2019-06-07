@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Customer.cpp" "P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/cmake-build-debug-mingw-64/CMakeFiles/MesTests.dir/src/Customer.cpp.obj"
   "P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Movie.cpp" "P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/cmake-build-debug-mingw-64/CMakeFiles/MesTests.dir/src/Movie.cpp.obj"
+  "P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/test/CustomerTests.cpp" "P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/cmake-build-debug-mingw-64/CMakeFiles/MesTests.dir/test/CustomerTests.cpp.obj"
   "P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/test/example.cpp" "P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/cmake-build-debug-mingw-64/CMakeFiles/MesTests.dir/test/example.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

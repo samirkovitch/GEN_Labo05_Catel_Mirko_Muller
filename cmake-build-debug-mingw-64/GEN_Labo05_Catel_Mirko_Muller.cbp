@@ -433,6 +433,9 @@
 		<Unit filename="P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/main.cpp">
 			<Option target="GEN_Labo05_Catel_Mirko_Muller"/>
 		</Unit>
+		<Unit filename="P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/test/CustomerTests.cpp">
+			<Option target="MesTests"/>
+		</Unit>
 		<Unit filename="P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/test/example.cpp">
 			<Option target="MesTests"/>
 		</Unit>

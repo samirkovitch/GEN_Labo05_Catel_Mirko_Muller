@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/MesTests.dir/test/example.cpp.obj"
   "CMakeFiles/MesTests.dir/src/Customer.cpp.obj"
   "CMakeFiles/MesTests.dir/src/Movie.cpp.obj"
+  "CMakeFiles/MesTests.dir/test/CustomerTests.cpp.obj"
   "MesTests.pdb"
   "MesTests.exe"
   "MesTests.exe.manifest"

@@ -6,14 +6,6 @@
 
 #IncludeRegexTransform: 
 
-P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Customer.cpp
-sstream
--
-vector
--
-Customer.h
-P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Customer.h
-
 P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Customer.h
 string
 -
@@ -22,10 +14,6 @@ vector
 Rental.h
 P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Rental.h
 
-P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Movie.cpp
-Movie.h
-P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Movie.h
-
 P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Movie.h
 string
 -
@@ -34,11 +22,15 @@ P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Rental.h
 Movie.h
 P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Movie.h
 
-P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/test/example.cpp
+P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/test/CustomerTests.cpp
 gtest/gtest.h
 P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/test/gtest/gtest.h
 gmock/gmock.h
 P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/test/gmock/gmock.h
+string
+-
+../src/Customer.h
+P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Customer.h
 
 googletest-src/googlemock/include/gmock/gmock-actions.h
 errno.h

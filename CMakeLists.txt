@@ -36,7 +36,7 @@ endif()
 
 add_executable(GEN_Labo05_Catel_Mirko_Muller src/main.cpp src/Customer.cpp src/Movie.cpp)
 
-add_executable(MesTests test/example.cpp src/Customer.cpp src/Movie.cpp)
+add_executable(MesTests test/example.cpp src/Customer.cpp src/Movie.cpp test/CustomerTests.cpp)
 target_link_libraries(MesTests gtest gmock_main)
 
 add_test(NAME example_test COMMAND MesTests)

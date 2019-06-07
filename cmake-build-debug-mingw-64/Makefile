@@ -695,6 +695,33 @@ src/main.cpp.s:
 	$(MAKE) -f CMakeFiles\GEN_Labo05_Catel_Mirko_Muller.dir\build.make CMakeFiles/GEN_Labo05_Catel_Mirko_Muller.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+test/CustomerTests.obj: test/CustomerTests.cpp.obj
+
+.PHONY : test/CustomerTests.obj
+
+# target to build an object file
+test/CustomerTests.cpp.obj:
+	$(MAKE) -f CMakeFiles\MesTests.dir\build.make CMakeFiles/MesTests.dir/test/CustomerTests.cpp.obj
+.PHONY : test/CustomerTests.cpp.obj
+
+test/CustomerTests.i: test/CustomerTests.cpp.i
+
+.PHONY : test/CustomerTests.i
+
+# target to preprocess a source file
+test/CustomerTests.cpp.i:
+	$(MAKE) -f CMakeFiles\MesTests.dir\build.make CMakeFiles/MesTests.dir/test/CustomerTests.cpp.i
+.PHONY : test/CustomerTests.cpp.i
+
+test/CustomerTests.s: test/CustomerTests.cpp.s
+
+.PHONY : test/CustomerTests.s
+
+# target to generate assembly for a file
+test/CustomerTests.cpp.s:
+	$(MAKE) -f CMakeFiles\MesTests.dir\build.make CMakeFiles/MesTests.dir/test/CustomerTests.cpp.s
+.PHONY : test/CustomerTests.cpp.s
+
 test/example.obj: test/example.cpp.obj
 
 .PHONY : test/example.obj
@@ -778,6 +805,9 @@ help:
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... test/CustomerTests.obj
+	@echo ... test/CustomerTests.i
+	@echo ... test/CustomerTests.s
 	@echo ... test/example.obj
 	@echo ... test/example.i
 	@echo ... test/example.s

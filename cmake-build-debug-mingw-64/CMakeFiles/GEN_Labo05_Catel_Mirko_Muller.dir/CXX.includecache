@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Customer.cpp
+sstream
+-
+vector
+-
+Customer.h
+P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Customer.h
+
+P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Customer.h
+string
+-
+vector
+-
+Rental.h
+P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Rental.h
+
+P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Movie.h
+string
+-
+
+P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Rental.h
+Movie.h
+P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Movie.h
+
+P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/main.cpp
+iostream
+-
+Customer.h
+P:/Users/Simon/Documents/GEN/Labos/GEN_Labo05_Catel_Mirko_Muller/src/Customer.h
+
